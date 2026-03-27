@@ -1,0 +1,20 @@
+# FastAPI - modern web framework for building APIs
+fastapi>=0.109.0
+
+# Uvicorn - ASGI server to run FastAPI
+uvicorn>=0.27.0
+
+# Python-multipart - for handling file uploads
+python-multipart>=0.0.6
+
+# Pillow - for image processing
+Pillow>=10.0.0
+
+# Requests - for calling external APIs
+requests>=2.31.0
+
+# NumPy - for numerical operations (image analysis)
+numpy>=1.24.0
+
+# OpenCV - for video frame extraction (optional, for advanced analysis)
+opencv-python-headless>=4.8.0
